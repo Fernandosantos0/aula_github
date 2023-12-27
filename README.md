@@ -22,16 +22,20 @@ _Os módulos irão ensinar desde o básico até o avançado sobre o **Git** e **
 3. Git avançado.
 4. Usando o GitHub de forma profissional 
 
+**Últimos updates:**
+- [x] Criação de um servidor Express JS.
+- [ ] Sistema de login semelhante ao do Facebook.
+- [ ] Dashbord para o gerenciamento do projeto
 
 ### Redes sociais
 
-[Instagram](https://www.instagram.com/fernandosantos20200/)
+[**Instagram**](https://www.instagram.com/fernandosantos20200/)
 
-[X (antigo Twitter)](https://twitter.com/fernand33138152)
+[_X (antigo Twitter)_](https://twitter.com/fernand33138152)
 
-[Facebook](https://www.facebook.com/profile.php?id=100017791291888)
+[**_Facebook_**](https://www.facebook.com/profile.php?id=100017791291888)
 
-[GitHub](https://github.com/Fernandosantos0)
+[_**GitHub**_](https://github.com/Fernandosantos0)
 
 [LICENSE](./LICENSE)
 
