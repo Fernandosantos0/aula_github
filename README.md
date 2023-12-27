@@ -43,7 +43,7 @@ _Os módulos irão ensinar desde o básico até o avançado sobre o **Git** e **
 >
 > Segunda área destacada
 
-**Comando para rodar nosso programa:**
+### Comando para rodar nosso programa:
 
 ```bash
     npm start
@@ -137,7 +137,7 @@ _Os módulos irão ensinar desde o básico até o avançado sobre o **Git** e **
     }
 ```
 
-### Informações sobre propriedades:
+**Informações sobre propriedades:**
 
 Propriedade | Descrição
 ------------|-----------
