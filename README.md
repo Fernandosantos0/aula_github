@@ -2,7 +2,7 @@
 
 ![Logo do Git](https://cdn.iconscout.com/icon/free/png-256/free-git-225996.png)
 
-![Logo do GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)
+![Logo do GitHub](https://static-00.iconduck.com/assets.00/github-emoji-512x506-u3px3qmr.png)
 
 Nesse curso você irá dominar todo **Git** e **GitHub** do _zero ao profissional_.
 
