@@ -1,13 +1,7 @@
 # Git e GitHub
 
-Nesse curso você irá aprender tudo sobre Git e GitHub.
+Nesse curso você irá dominar todo **Git** e **GitHub** do _zero ao profissional_.
 
 ## Módulos:
 
-- O que é Git;
-- O que é repositório;
-- Criações de branches;
-- Commits do projeto;
-- Marcações do códigos;
-- Criação da conta no GitHub;
-- Entre outras coisas
+_Entendendo o que é **Git**, criando um **repositórios**, criação de **branches** e muito mais._
