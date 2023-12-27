@@ -1,7 +1,13 @@
-# Bem vindo ao curso Git e GitHub
 
 ![Logo do Git](https://cdn.iconscout.com/icon/free/png-256/free-git-225996.png)
 ![Logo do GitHub](https://img1.gratispng.com/20180514/hcq/kisspng-github-logo-repository-computer-icons-5afa376beb2671.4883383715263476279632.jpg)
+
+[Seja bem vindo](#bem-vindo-ao-curso-git-e-github) | 
+[Módulos](#módulos) |
+[Rede sociais](#redes-sociais) |
+[Comandos](#comando-para-rodar-nosso-programa)
+
+# Bem vindo ao curso Git e GitHub
 
 Nesse curso você irá dominar todo **Git** e **GitHub** do _zero ao profissional_.
 
