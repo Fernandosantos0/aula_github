@@ -35,3 +35,101 @@ _Os módulos irão ensinar desde o básico até o avançado sobre o **Git** e **
 [GitHub](https://github.com/Fernandosantos0)
 
 [LICENSE](./LICENSE)
+
+> Este é um blockquote, usado para destacar alguma área. 
+>
+> Segunda área destacada
+
+**Comando para rodar nosso programa:**
+
+```bash
+    npm start
+```
+
+**Código-fonte para criar um servidor Express JS:**
+
+```js
+    /* Importando os módulos */
+    const express = require('express');
+
+    /* Invocando a função do express */
+    const app = express();
+
+    /* Rotas */
+    app.get('/', (req, res, next) => {
+        res.status(200).send('Olá mundo!');
+    });
+
+    /* Subindo o servidor */
+    const port = process.env.PORT || 3000;
+    const host = 'hostname';
+    app.listen(port, host, () => {
+        console.log(`Server ON - http://${host}:${port}`);
+    });
+```
+
+**Script PHP de exemplo:**
+
+```php
+    # Criando as variáveis
+    $nome = 'Fernando';
+    $sobrenome = 'Santos';
+    $idade = 23;
+
+    echo "Olá, meu nome é $nome $sobrenome e tenho $idade anos de idade.";
+```
+
+**Tag HTML5:**
+```html
+    <header id="header">
+        <div class="container">
+            <h1>Logo</h1>
+
+            <nav id="menu">
+                <ul>
+                    <li>
+                        <a href="#">Home</a>
+                    </li>
+                    <li>
+                        <a href="#">Serviços</a>
+                    </li>
+                    <li>
+                        <a href="#">Produtos</a>
+                    </li>
+                    <li>
+                        <a href="#">Marcas</a>
+                    </li>
+                    <li>
+                        <a href="#">Contatos</a>
+                    </li>
+                </ul>
+            </nav> <!-- menu -->
+        </div> <!-- container -->
+    </header> <!-- header -->
+```
+
+
+**Estilos css:**
+
+```css
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        font-family: arial, sans-serif;
+    }
+
+    .container {
+        max-width: 1100px;
+        width: 100%;
+        margin: 0 auto;
+    }
+
+    #header {
+        width: 100vw
+    }
+
+    #header > .container {
+        display: flex;
+    }
+```
