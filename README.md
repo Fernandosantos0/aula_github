@@ -136,3 +136,12 @@ _Os módulos irão ensinar desde o básico até o avançado sobre o **Git** e **
         display: flex;
     }
 ```
+
+### Informações sobre propriedades:
+
+Propriedade | Descrição
+------------|-----------
+name | Permite capturar o nome digitado no campo input
+size | Permite definir o tamanho do campo
+background-color | Permite definir a cor _HEX_ do fundo do elemento
+onPress | Função ao clicar no campo
