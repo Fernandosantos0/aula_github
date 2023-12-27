@@ -18,3 +18,5 @@ _Entendendo o que é **Git**, criando um **repositórios**, criação de **branc
 [X (antigo Twitter)](https://twitter.com/fernand33138152)
 
 [Facebook](https://www.facebook.com/profile.php?id=100017791291888)
+
+[LICENSE](./LICENSE)
