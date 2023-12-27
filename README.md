@@ -1,6 +1,6 @@
 # Git e GitHub
 
-![Logo do Git](https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png)
+![Logo do Git](https://cdn.iconscout.com/icon/free/png-256/free-git-225996.png)
 
 ![Logo do GitHub](https://cdn-icons-png.flaticon.com/512/25/25231.png)
 
